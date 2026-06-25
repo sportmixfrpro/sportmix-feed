@@ -5,7 +5,7 @@
     <link>https://www.sportmix.fr</link>
     <description>Catalogue Sportmix : ballons, raquettes, fitness, natation, ski et plus.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 24 Jun 2026 08:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:50:54 GMT</lastBuildDate>
 
     <item>
       <g:id>8741004935502_47666628165966</g:id>
@@ -149303,6 +149303,7 @@
       <g:brand>SportMix</g:brand>
       <g:condition>new</g:condition>
       <g:google_product_category>5870</g:google_product_category>
+      <g:product_type>Equipement sportif</g:product_type>
       <g:identifier_exists>no</g:identifier_exists>
       <g:item_group_id>9665978630478</g:item_group_id>
       <g:color>Double Head Paddle</g:color>
